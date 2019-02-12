@@ -5,4 +5,4 @@ If you do not have docker installed on your Linux machine, you can use the scrip
 
 Offline installation packages are shipped with dependencies
 
-I am Chinese, English is not good, I hope you can understand
+I am Chinese, English is not good, I hope you can understand.
